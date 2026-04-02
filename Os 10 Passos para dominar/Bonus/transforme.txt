@@ -1,0 +1,73 @@
+
+> [!tldr]  
+> Transforme qualquer projeto caótico em uma árvore visual organizada com estrutura ASCII, indicadores de status e barras de progresso atualizadas em tempo real. Esse framework ajuda a mapear tarefas, acompanhar evolução e manter clareza operacional durante toda a conversa.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+
+---
+
+# Project Tree: Visualizador dinâmico de progresso e fluxo
+
+## 1. O que é a Project Tree?
+
+A **Project Tree** é um framework que converte o planejamento caótico de projetos em uma hierarquia visual clara, usando uma árvore em ASCII com acompanhamento de progresso em tempo real.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)  
+A ideia central é representar projetos, subprojetos e tarefas em uma estrutura simples, legível e atualizável ao longo da conversa.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+
+> [!question] Por que isso funciona bem?
+> 
+> - Organiza projetos complexos visualmente;
+>     
+> - Deixa o progresso fácil de acompanhar;
+>     
+> - Melhora a clareza sobre o que já foi feito e o que falta;
+>     
+> - Permite atualizações naturais durante a conversa;
+>     
+> - Facilita transformar discussões soltas em planos acionáveis.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+>     
+
+---
+
+## 2. Problema → solução
+
+O framework foi pensado para resolver quatro dores principais de organização de projetos.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+
+## 2.1. Arquitetura problema → solução
+
+- **🌳 Caos no projeto** → visualizador em árvore ASCII com mapeamento hierárquico inteligente.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+    
+- **📊 Dificuldade de acompanhar progresso** → sistema dinâmico de status com barras de progresso autoatualizáveis.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+    
+- **📈 Falta de clareza sobre o estado das tarefas** → indicadores visuais inteligentes como `✓`, `▶️`, `⏳` e `⭘`.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+    
+- **⚡ Atualização manual trabalhosa** → processamento de linguagem natural para aceitar updates escritos de forma natural.[reddit](https://www.reddit.com/r/PromptSynergy/comments/1ii6qnd/project_tree_dynamic_progress_workflow_visualizer/)
+    
+
+---
+
+## 3. Como usar a Project Tree
+
+Você pode começar um projeto do zero ou aplicar o framework no meio de uma conversa já em andamk no meio de uma conversa já em andament
+
+text
+
+`Create project tree for [seu projeto]`
+
+## 3.2. Organização no meio da conversa
+
+Se você já estiver discutindk no meio de uma conversa já em andamento meio de uma conversa já em andament create: [project tree prompt]
+
+text
+
+`Isso faz com que o sistema reorganize o que já foi discutidk no meio de uma conversa já em andament. Atualizações durk no meio de uma conversa já em andamentê pode k no meio de uma conversa já em andament``md Update project tree Task A is compk no meio de uma conversa já em andament uma conversa já em andamento meio de uma conversa já em andamentnovos projetos quanto para reorganizar discussões antigas jk no meio de uma conversa já em andamentio de uma conversa já em andamentompt adaptado em formato mais limpo k no meio de uma conversa já em andamentjá em andamentore Funck no meio de uma conversa já em andamentestrutura de árvore bask no meio de uma conversa já em andament de uma conversa já em andament uma conversa já em andament Mantenha hierarquias simples e claras; - Presk no meio de uma conversa já em andament 2. Display Options Formate em block no meio de uma conversa já em andament A ▶️ [60%] │   ├── Sub-task 1 ✓ [100%] │   └── Sub-task 2 k no meio de uma conversa já em andament██████░░░░] 60% 3. Status & Progk no meio de uma conversa já em andamentuma conversa já em andamenta já em andamentinick no meio de uma conversa já em andamenta já em andament de uma conversa já em andamentna conversa. 4. Progress Tracking -k no meio de uma conversa já em andamentorcentagem; - Atualize automaticamente os nós pais; - Recalcule progresso em tempo k no meio de uma conversa já em andamentntk no meio de uma conversa já em andamentara cálculo, reconhecimk no meio de uma conversa já em andamentura.[1] ### 5.1. Regras de cálculk no meio de uma conversa já em andamentGuidelink no meio de uma conversa já em andamentresso do nó pai = média das tarefas filhas; - Progresso geral = média pok no meio de uma conversa já em andamentximo; - Atualize o status automaticamente com base no progresso:   * 0% = Não iniciado ⭘  * 1-99% = Em andamento ▶️  * 100% = Completo ✓`
+
+## 5.2. Reconhecimento de comak no meio de uma conversa já em andamentdos suportados:
+
+- "Show project tree"
+    
+- "Show project status"
+    
+- Atualizações em linguagem natural
+    
+
+text
+
+``### 5.3. Protocolo de atualização ```md 3. Update Protocol - Aceite atualizações em linguk no meio de uma conversa já em andament por vez; - Valide mudanças ak no meio de uma conversa já em andament afetados; - Recalk no meio de uma conversa já em andament Comandos e gestão de contexto O framework também ink no meio de uma conversa já em andamentrojeto ao lk no meio de uma conversa já em andamentmeio de uma conversa já em andaments 1. Basic Commands - "Show project tree" - "Show status" - Ak no meio de uma conversa já em andamentversa já em andamentntexto ```md 2. Context Management - Acompanhe mudanças ao longo da conversa; - Atualize com base nas tarefas discutik no meio de uma conversa já em andament- Autoatuak no meio de uma conversa já em andamentão de ek no meio de uma conversa já em andament updates; - Mostre mensagens de erro claras; - Preserve conk no meio de uma conversa já em andamenta já em andamento A árvore prek no meio de uma conversa já em andamentenas no que realmente importk no meio de uma conversa já em andament## Display Standards 1. Clean Format - Indentk no meio de uma conversa já em andaments informações essenciais. ``` ### 7.2. Atualizações visík no meio de uma conversa já em andament de forma clara; - Verifique conk no meio de uma conversa já em andament > [!note]   > O sistema mantém o contexto dek no meio de uma conversa já em andamentre com base nas tarefas e no progrk no meio de uma conversa já em andament] *** ## 8k no meio de uma conversa já em andamentá em andamentanejamento ▶️ [50%] │   ├── Definição de escopo ✓ [100%] │   └── Lek no meio de uma conversa já em andamentução ▶️ [30%] │   ├── Back no meio de uma conversa já em andament─ Entrega k no meio de uma conversa já em andamentEsse formato deixa claro o esk no meio de uma conversa já em andamentitura e ajuda muito quk no meio de uma conversa já em andamentma conversa já em andamentuando usar esse framek no meio de uma conversa já em andamentl quando você quer:[1] - Quebrar projetos grandes em pak no meio de uma conversa já em andament já em andamentandament de progrek no meio de uma conversa já em andament já em andamentconstruir tudo do zero;[1] - Organizar brainstok no meio de uma conversa já em andament estrutura única.[1] *** ## 10. Próximo passo da série O post indica que o próximo framek no meio de uma conversa já em andament Optimization Chains (POC)**, descrito como a próxima etapa do pipelink no meio de uma conversa já em andamentso transformar este conteúdo em uma versão **mais polida e 100% consistente com o seu esk no meio de uma conversa já em andaments como `[!success]`, comparações “prompt simples vs estruturado” e nome de arquivo ják no meio de uma conversa já em andamenték no meio de uma conversa já em andamentment``

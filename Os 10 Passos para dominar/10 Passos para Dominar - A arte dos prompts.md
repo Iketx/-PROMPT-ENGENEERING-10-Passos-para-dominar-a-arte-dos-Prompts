@@ -18,8 +18,12 @@
 
 **Aplicações Avançadas.**
 7. [[07. Análise de dados]].
-
+8. [[08. Técnicas para criação de conteúdo que todo mundo deveria saber]].
+9. [[09. Técnicas de dialogo interativo com IA]].
 **Especial: Um Framework Mágico:**
-
+10. [[10. Domine o framework MPT (Módulos, Pathways e Gatilhos)]].
 
 **Bonus:**
+* [[Transforme qualquer projeto caótico em uma árvore visual organizada]].
+* [[PROMPT GENERATOR crie prompts otimizados a partir da sua necessidade]].
+* [[PROMPT-LENS otimizador de qualidade de respostas]].

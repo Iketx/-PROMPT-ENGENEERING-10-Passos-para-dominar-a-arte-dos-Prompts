@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f760eab4fe21a825",
+    "id": "b1b26a90ba53f059",
     "type": "split",
     "children": [
       {
-        "id": "093e05e9a8c0131b",
+        "id": "18dd85804e13d9ea",
         "type": "tabs",
         "children": [
           {
-            "id": "3ecfee901b48a134",
+            "id": "1847875ba4cf6dde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nova aba"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fb4ab2a1fa7efff3",
+    "id": "67f02f5de71529c2",
     "type": "split",
     "children": [
       {
-        "id": "56142673f93cff57",
+        "id": "350198f77b7ecc49",
         "type": "tabs",
         "children": [
           {
-            "id": "7c26fb4c7f352aff",
+            "id": "260c915a1a5672c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "0dc8023712b6ee0b",
+            "id": "1a31873b97bbad11",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +57,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "8dd34cfd72691f2d",
+            "id": "66e3de22e46b14ff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "586bee067b5e307b",
+    "id": "60b6ce1a99494de0",
     "type": "split",
     "children": [
       {
-        "id": "677255472b9cf6f0",
+        "id": "3c8c293d0ebf6fee",
         "type": "tabs",
         "children": [
           {
-            "id": "25e8536de44908dd",
+            "id": "69445a33dfbd2956",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01. Fundamentos e técnicas essenciais..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Backlinks for 01. Fundamentos e técnicas essenciais."
             }
           },
           {
-            "id": "97c0a495078f98b3",
+            "id": "7e4f0836055a9086",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01. Fundamentos e técnicas essenciais..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para README"
+              "title": "Outgoing links from 01. Fundamentos e técnicas essenciais."
             }
           },
           {
-            "id": "ddb1cc4596e07d66",
+            "id": "5bdb4abc1c4c9e21",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +129,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "f090255e0da30b87",
+            "id": "ce7be0c91bb80018",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +143,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "title": "All properties"
             }
           },
           {
-            "id": "6fd6a44ff18381c6",
+            "id": "0e18edddc261111e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01. Fundamentos e técnicas essenciais..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Outline of 01. Fundamentos e técnicas essenciais."
             }
           }
         ]
@@ -183,11 +179,32 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3ecfee901b48a134",
+  "active": "1847875ba4cf6dde",
   "lastOpenFiles": [
-    "Os 10 Passos para dominar/10 Passos para Dominar - A arte dos prompts.md",
-    "Os 10 Passos para dominar/Fundamentos e Raciocinio/01. Fundamentos e técnicas essenciais..md",
-    "Os 10 Passos para dominar/Especial/10. Domine o framework MPT (Módulos, Pathways e Gatilhos).md",
-    "Os 10 Passos para dominar/Aplicacoes Avancadas/09. Técnicas de dialogo interativo com IA.md"
+    "PROMPT-LENS otimizador de qualidade de respostas.md",
+    "Os 10 Passos para dominar/10 Passos para Dominar - A arte dos prompts.md",
+    "Os 10 Passos para dominar/Transforme qualquer projeto caótico em uma árvore visual organizada.md",
+    "Os 10 Passos para dominar/PROMPT-LENS otimizador de qualidade de respostas.md",
+    "Os 10 Passos para dominar/PROMPT GENERATOR crie prompts otimizados a partir da sua necessidade.md",
+    "Os 10 Passos para dominar/LICENSE",
+    "Os 10 Passos para dominar/10. Domine o framework MPT (Módulos, Pathways e Gatilhos).md",
+    "Os 10 Passos para dominar/09. Técnicas de dialogo interativo com IA.md",
+    "Os 10 Passos para dominar/08. Técnicas para criação de conteúdo que todo mundo deveria saber.md",
+    "Os 10 Passos para dominar/07. Análise de dados.md",
+    "Os 10 Passos para dominar/06. Domine a decomposição de tarefas - Uma solução eficaz para problemas complexos.md",
+    "Os 10 Passos para dominar/05. Como prevenir alucinações e se recuperar de erros.md",
+    "Os 10 Passos para dominar/04. Controle de respostas - Uma técnica PARA TODOS!.md",
+    "Os 10 Passos para dominar/03. Janelas de contexto - Técnicas que você precisa saber..md",
+    "Os 10 Passos para dominar/02. As 4 Maneiras de encadeamento de raciocínio para respostas mais qualificadas.md",
+    "Os 10 Passos para dominar/01. Fundamentos e técnicas essenciais..md",
+    "Os 10 Passos para dominar",
+    "Nova pasta",
+    "10 Passos para Dominar - A arte dos prompts.md",
+    "PROMPT GENERATOR crie prompts otimizados a partir da sua necessidade.md",
+    "Transforme qualquer projeto caótico em uma árvore visual organizada.md",
+    "10. Domine o framework MPT (Módulos, Pathways e Gatilhos).md",
+    "09. Técnicas de dialogo interativo com IA.md",
+    "08. Técnicas para criação de conteúdo que todo mundo deveria saber.md",
+    "01. Fundamentos e técnicas essenciais..md"
   ]
 }
